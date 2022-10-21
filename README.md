@@ -52,7 +52,7 @@ Inference involves passing RGB input into U-Net (OE) and U-Net (NOE), after whic
 
 #### 5. License
 
-The code is released for academic research use only.
+We are not liable for unauthorized use of this code
 
 <br/>
 
